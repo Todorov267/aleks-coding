@@ -1,0 +1,23 @@
+h1 {
+
+    text-align: center;
+}
+
+p {
+
+    font-size: 27px;
+    padding: 30px;
+   
+}
+
+a {
+
+    text-decoration: none;
+    color:aliceblue;
+}
+
+body {
+
+background-color: rgb(165, 237, 213);
+
+}
